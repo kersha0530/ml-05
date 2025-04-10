@@ -201,3 +201,8 @@ seaborn
 # ======================================================
 # In a terminal, run the following command to export the specific package versions to a file:
 #pip freeze > rv.txt
+
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.1
+scikit-learn==1.2.2
